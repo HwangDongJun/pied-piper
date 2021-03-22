@@ -8,7 +8,7 @@ Built during the VeloCity Residence Hacknight for Spring 2015 by Ronuk Raval and
 Kartik Talwar.
 
 ----
-일부 수정
+일부 수정 (2021-03-22)
 - Android API 레벨에 맞춰 코드 수정
   -  Name : Pixel_3a_API_30_x86, API : 30, Target : Android 11.0 (Google APIs)
 - decode.py 임포트 모듈 코드 일부 수정

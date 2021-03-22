@@ -3,7 +3,7 @@ from __future__ import print_function
 import sys
 import wave
 
-from cStringIO import StringIO
+from io import StringIO
 
 import alsaaudio
 import colorama
